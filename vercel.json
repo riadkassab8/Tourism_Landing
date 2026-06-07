@@ -1,9 +1,9 @@
 {
-  "buildCommand": "npm run build --prefix artifacts/tourist-landing",
+  "buildCommand": "npm run build:landing",
   "outputDirectory": "artifacts/tourist-landing/dist/public",
   "installCommand": "npm install --legacy-peer-deps",
   "framework": null,
-  "devCommand": "npm run dev --prefix artifacts/tourist-landing",
+  "devCommand": "cd ./artifacts/tourist-landing && npm run dev",
   "rewrites": [
     {
       "source": "/(.*)",
