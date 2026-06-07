@@ -1,7 +1,6 @@
 {
-  "buildCommand": "npm run build --workspace=@workspace/tourist-landing",
+  "buildCommand": "npm run build:prod",
   "outputDirectory": "artifacts/tourist-landing/dist",
   "installCommand": "npm install --legacy-peer-deps",
-  "framework": null,
-  "devCommand": "npm run dev --workspace=@workspace/tourist-landing"
+  "framework": null
 }
