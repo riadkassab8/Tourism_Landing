@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "OlSSN6zu-SYZi5Ur-DAnD"
+uri = "file://artifacts/tourist-landing/public/images/hero.png"
+type = "image"
+title = "Cinematic traveler on mountain ridge"
+
+[[generated]]
+id = "1eeAAuJnXuVohkpt-U0sv"
+uri = "file://artifacts/tourist-landing/public/images/patagonia.png"
+type = "image"
+title = "Patagonia jagged peaks and water"
+
+[[generated]]
+id = "_LySXyQ8cqfvAX4HLVgiO"
+uri = "file://artifacts/tourist-landing/public/images/sahara.png"
+type = "image"
+title = "Sahara dunes at golden hour"
+
+[[generated]]
+id = "CCkIRNslOtT1wCbUWYOQt"
+uri = "file://artifacts/tourist-landing/public/images/fjords.png"
+type = "image"
+title = "Norwegian fjords at twilight"
+
+[[generated]]
+id = "SqBxE_te-o_45tG3hZZMV"
+uri = "file://artifacts/tourist-landing/public/images/kyoto.png"
+type = "image"
+title = "Kyoto temple in autumn mist"
+
+[[generated]]
+id = "UCizBMaj3AzaX9-BxPVrF"
+uri = "file://artifacts/tourist-landing/public/images/spacer.png"
+type = "image"
+title = "Cinematic ocean waves texture"
