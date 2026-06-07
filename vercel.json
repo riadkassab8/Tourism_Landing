@@ -3,11 +3,5 @@
   "outputDirectory": "artifacts/tourist-landing/dist/public",
   "installCommand": "npm install --legacy-peer-deps",
   "framework": null,
-  "devCommand": "npm run dev --workspace=@workspace/tourist-landing",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+  "devCommand": "npm run dev --workspace=@workspace/tourist-landing"
 }
